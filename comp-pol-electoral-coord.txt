@@ -1,0 +1,37 @@
+PREGUNTAS DE TITULACION POR CASO
+POLITICA COMPARADA
+Otoño 2024
+Profesor encargado: Eric Magar (emagar@itam.mx)
+
+México, Francia y el Reino Unido celebraron elecciones recientes para renovar la cámara baja del Congreso o del Parlamento. Hará un análisis comparativo desde la óptica de la *coordinación electoral*.
+
+A partir de una lectura cuidadosa de Cox (1997), discutirá breve y claramente los elementos del modo de escrutinio de los tres países que considere pertinentes para la coordinación electoral. En su argumento y análisis distinga la coordinación de partido y la coordinación de votantes. No pierda de vista la posible presencia de otros elementos que conspiren para facilitar o complicar la coordinación electoral en el distrito, como son las elecciones concurrentes o los distritos secundarios.
+
+Derive indicadores que permitan poner a prueba al menos tres predicciones sobre la coordinación electoral. P.ej, podría contemplar cantidades como el número de candidatos en la boleta, la presencia de coaliciones pre-electorales, los retiros para el ballotage, el porcentaje de voto ganador y el margen de victoria, el voto de otros candidatos, el SF ratio y muchas más. Y asociarlos a la preducción que estos indicadores permiten inspeccionar. (Ojo: no deberá usarlos todos los indicadores, elija los más relevantes para su argumento/predicciones.)
+
+Analice los resultados a nivel distrito que acompañan esta pregunta en busca de evidencia de coordinación y descoordinación electoral. En el caso de México, su unidad de análisis será el distrito federal de mayoría (N = 300); en Francia, la /circonscription législative métropolitaine/ (N = 539); en el Reino Unido, la /constituency/ (N = 650).
+
+¡Mucha suerte!
+
+Datos anexos: los podrá descargar desde el siguiente enlace https://github.com/emagar/caso-pc-oto2024
+- data/france/metropolitaine-1er-tour-2024-par-circonscription.xlsx
+- data/france/metropolitaine-2d-tour-par-circonscription.xlsx
+- data/france/liste-nuances-2024.txt
+- data/mex/dfdf2024-con-coaliciones-agregadas.csv
+- data/uk/HoC-GE2024-results-by-candidate.csv
+- data/uk/HoC-GE2024-results-by-constituency.csv
+
+Bibliografía
+- Cox, Gary W. 1997. Making Votes Count: Strategic Coordination in the World's Electoral Systems. CUP.
+
+
+
+
+
+
+
+
+
+
+
+
